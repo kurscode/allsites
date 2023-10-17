@@ -1,0 +1,19 @@
+body{
+background-color: black;
+}
+
+h1{
+    color: white;
+}
+#p1{
+    color: red;
+}
+#p2{
+    color: aquamarine;
+}
+#p3{
+    color: rgb(255, 242, 0);
+}
+#p4{
+    color: salmon;
+}
